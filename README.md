@@ -15,8 +15,8 @@
 ###       https://tuts4you.com/   脱壳专区
 ###       http://www.theappguruz.com/
 ##推荐博客
- ### 尼古拉斯·赵四    http://www.wjdiankong.cn/
-## 学习Android逆向必备知识
+###  尼古拉斯·赵四    http://www.wjdiankong.cn/
+##  学习Android逆向必备知识
 ###  java 基础和 Android 开发基础
 ###  c 语言基础，了解常用的函数
 ###  了解常见的 apk 内文件格式（ dex， xml， so）
